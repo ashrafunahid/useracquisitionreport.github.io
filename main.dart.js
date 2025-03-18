@@ -70535,7 +70535,7 @@ else{p=b.fr
 if(p.length!==0)p="Date "+p[0]
 else{p=b.fy
 p=p.length!==0?"Date "+p[0]:""}}}}}p=A.bh(a,a,p)
-o=A.bh(a,a,"\n")
+o=A.bh(a,a,"\n\n")
 n=A.bh(a,a,"\n*Secure Super VPN*\n")
 if(q&&b.ch.length!==0){q=r[1]
 m=b.ch
