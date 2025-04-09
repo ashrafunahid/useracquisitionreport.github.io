@@ -70535,7 +70535,7 @@ else{p=b.fr
 if(p.length!==0)p="Date "+p[0]
 else{p=b.fy
 p=p.length!==0?"Date "+p[0]:""}}}}}p=A.bh(a,a,p)
-o=A.bh(a,a,"\n\n")
+o=A.bh(a,a,"\n")
 n=A.bh(a,a,"\n*Secure Super VPN*\n")
 if(q&&b.ch.length!==0){q=r[1]
 m=b.ch
@@ -70574,7 +70574,7 @@ e=b.fx
 e=a0+f+" (AE: "+e[1]+") [New: "+g[2]+" (AE: "+e[2]+"), Old: "+g[3]+" (AE: "+e[3]+a1+g[4]+" (AE: "+e[4]+")\nGrowth: "+g[5]+" (AE: "+e[5]+")\n"
 g=e}else g=f?a0+g[1]+" (New: "+g[2]+", Old: "+g[3]+")\nUser Losses: "+g[4]+"\nGrowth: "+g[5]+"\n":""
 g=A.bh(a,a,g)
-f=A.bh(a,a,"\n*Beautylab AI*\n")
+f=A.bh(a,a,"\n*BeautyLab AI*\n")
 e=b.fy
 d=e.length!==0
 if(d&&b.go.length!==0){d=e[1]
